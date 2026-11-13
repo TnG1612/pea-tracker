@@ -34,6 +34,7 @@ Any other tool can read that file from its "raw" URL.
 - `chg1d`: % change vs the previous close. `chgYtd`: % change vs the last close of last year
 - `currency`: as reported by Yahoo. **London prices are in `GBp` (pence)**: divide by 100 for pounds
 - `date`: the trading day of that close
+- `fx`: how many euros 1 unit of each currency is worth (e.g. `"USD": 0.90`), to add up a portfolio in euros
 - `missing`: ids that could not be fetched. If we had an older price, it is kept and marked `"stale": true`
 
 The script **never invents a number**. If something fails, it says so in `missing`.
