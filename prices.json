@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-11-13T13:32:22+00:00",
+ "generatedAt": "2026-11-13T17:42:49+00:00",
  "prices": {
   "4GLD": {
    "id": "4GLD",
    "yahoo_ticker": "4GLD.DE",
-   "price": 112.48,
+   "price": 113.26,
    "currency": "EUR",
-   "chg1d": -3.03,
-   "chgYtd": -6.55,
-   "date": "2026-11-12"
+   "chg1d": 0.69,
+   "chgYtd": -5.91,
+   "date": "2026-11-13"
   },
   "AAPL": {
    "id": "AAPL",
@@ -22,11 +22,11 @@
   "ABBN": {
    "id": "ABBN",
    "yahoo_ticker": "ABBN.SW",
-   "price": 70.42,
+   "price": 69.96,
    "currency": "CHF",
-   "chg1d": -0.4,
-   "chgYtd": 18.91,
-   "date": "2026-11-12"
+   "chg1d": -0.65,
+   "chgYtd": 18.14,
+   "date": "2026-11-13"
   },
   "ABBV": {
    "id": "ABBV",
@@ -40,11 +40,11 @@
   "ABI": {
    "id": "ABI",
    "yahoo_ticker": "ABI.BR",
-   "price": 76.5,
+   "price": 76.94,
    "currency": "EUR",
-   "chg1d": 1.19,
-   "chgYtd": 39.34,
-   "date": "2026-11-12"
+   "chg1d": 0.58,
+   "chgYtd": 40.15,
+   "date": "2026-11-13"
   },
   "ABNB": {
    "id": "ABNB",
@@ -67,20 +67,20 @@
   "AC": {
    "id": "AC",
    "yahoo_ticker": "AC.PA",
-   "price": 52.04,
+   "price": 51.72,
    "currency": "EUR",
-   "chg1d": -0.69,
-   "chgYtd": 7.92,
-   "date": "2026-11-12"
+   "chg1d": -0.61,
+   "chgYtd": 7.26,
+   "date": "2026-11-13"
   },
   "ACA": {
    "id": "ACA",
    "yahoo_ticker": "ACA.PA",
-   "price": 15.83,
+   "price": 15.835,
    "currency": "EUR",
-   "chg1d": -0.25,
-   "chgYtd": -9.8,
-   "date": "2026-11-12"
+   "chg1d": 0.03,
+   "chgYtd": -9.77,
+   "date": "2026-11-13"
   },
   "ACN": {
    "id": "ACN",
@@ -94,11 +94,11 @@
   "AD": {
    "id": "AD",
    "yahoo_ticker": "AD.AS",
-   "price": 35.3,
+   "price": 36.05,
    "currency": "EUR",
-   "chg1d": 0.23,
-   "chgYtd": 1.23,
-   "date": "2026-11-12"
+   "chg1d": 2.12,
+   "chgYtd": 3.38,
+   "date": "2026-11-13"
   },
   "ADBE": {
    "id": "ADBE",
@@ -121,56 +121,56 @@
   "ADS": {
    "id": "ADS",
    "yahoo_ticker": "ADS.DE",
-   "price": 176.95,
+   "price": 177.65,
    "currency": "EUR",
-   "chg1d": -0.08,
-   "chgYtd": 4.67,
-   "date": "2026-11-12"
+   "chg1d": 0.4,
+   "chgYtd": 5.09,
+   "date": "2026-11-13"
   },
   "ADYEN": {
    "id": "ADYEN",
    "yahoo_ticker": "ADYEN.AS",
-   "price": 868.0,
+   "price": 867.1,
    "currency": "EUR",
-   "chg1d": -0.75,
-   "chgYtd": -36.87,
-   "date": "2026-11-12"
+   "chg1d": -0.1,
+   "chgYtd": -36.94,
+   "date": "2026-11-13"
   },
   "AI": {
    "id": "AI",
    "yahoo_ticker": "AI.PA",
-   "price": 192.84,
+   "price": 193.32,
    "currency": "EUR",
-   "chg1d": 0.35,
-   "chgYtd": 32.36,
-   "date": "2026-11-12"
+   "chg1d": 0.25,
+   "chgYtd": 32.69,
+   "date": "2026-11-13"
   },
   "AIR": {
    "id": "AIR",
    "yahoo_ticker": "AIR.PA",
-   "price": 208.25,
+   "price": 206.65,
    "currency": "EUR",
-   "chg1d": -1.16,
-   "chgYtd": 4.96,
-   "date": "2026-11-12"
+   "chg1d": -0.77,
+   "chgYtd": 4.16,
+   "date": "2026-11-13"
   },
   "ALO": {
    "id": "ALO",
    "yahoo_ticker": "ALO.PA",
-   "price": 10.33,
+   "price": 10.16,
    "currency": "EUR",
-   "chg1d": -0.86,
-   "chgYtd": -58.96,
-   "date": "2026-11-12"
+   "chg1d": -1.65,
+   "chgYtd": -59.63,
+   "date": "2026-11-13"
   },
   "ALV": {
    "id": "ALV",
    "yahoo_ticker": "ALV.DE",
-   "price": 472.4,
+   "price": 477.2,
    "currency": "EUR",
-   "chg1d": 1.9,
-   "chgYtd": 20.97,
-   "date": "2026-11-12"
+   "chg1d": 1.02,
+   "chgYtd": 22.2,
+   "date": "2026-11-13"
   },
   "AMAT": {
    "id": "AMAT",
@@ -202,11 +202,11 @@
   "AMS": {
    "id": "AMS",
    "yahoo_ticker": "AMS.MC",
-   "price": 62.2,
+   "price": 62.16,
    "currency": "EUR",
-   "chg1d": -0.16,
-   "chgYtd": -1.02,
-   "date": "2026-11-12"
+   "chg1d": -0.06,
+   "chgYtd": -1.08,
+   "date": "2026-11-13"
   },
   "AMT": {
    "id": "AMT",
@@ -256,20 +256,20 @@
   "ASML": {
    "id": "ASML",
    "yahoo_ticker": "ASML.AS",
-   "price": 1376.8,
+   "price": 1338.8,
    "currency": "EUR",
-   "chg1d": -1.92,
-   "chgYtd": 49.42,
-   "date": "2026-11-12"
+   "chg1d": -2.76,
+   "chgYtd": 45.3,
+   "date": "2026-11-13"
   },
   "ATCOA": {
    "id": "ATCOA",
    "yahoo_ticker": "ATCO-A.ST",
-   "price": 194.0,
+   "price": 192.25,
    "currency": "SEK",
-   "chg1d": -0.33,
-   "chgYtd": 16.83,
-   "date": "2026-11-12"
+   "chg1d": -0.9,
+   "chgYtd": 15.78,
+   "date": "2026-11-13"
   },
   "AVGO": {
    "id": "AVGO",
@@ -292,11 +292,11 @@
   "AZN": {
    "id": "AZN",
    "yahoo_ticker": "AZN.L",
-   "price": 13930.0,
+   "price": 13982.0,
    "currency": "GBp",
-   "chg1d": 0.24,
-   "chgYtd": 1.02,
-   "date": "2026-11-12"
+   "chg1d": 0.37,
+   "chgYtd": 1.39,
+   "date": "2026-11-13"
   },
   "BA": {
    "id": "BA",
@@ -328,20 +328,20 @@
   "BAES": {
    "id": "BAES",
    "yahoo_ticker": "BA.L",
-   "price": 1896.0,
+   "price": 1886.0,
    "currency": "GBp",
-   "chg1d": -1.12,
-   "chgYtd": 10.62,
-   "date": "2026-11-12"
+   "chg1d": -0.53,
+   "chgYtd": 10.04,
+   "date": "2026-11-13"
   },
   "BBVA": {
    "id": "BBVA",
    "yahoo_ticker": "BBVA.MC",
-   "price": 23.53,
+   "price": 23.57,
    "currency": "EUR",
-   "chg1d": -0.34,
-   "chgYtd": 17.36,
-   "date": "2026-11-12"
+   "chg1d": 0.17,
+   "chgYtd": 17.56,
+   "date": "2026-11-13"
   },
   "BHP": {
    "id": "BHP",
@@ -373,11 +373,11 @@
   "BMW": {
    "id": "BMW",
    "yahoo_ticker": "BMW.DE",
-   "price": 57.18,
+   "price": 57.52,
    "currency": "EUR",
-   "chg1d": -1.38,
-   "chgYtd": -38.61,
-   "date": "2026-11-12"
+   "chg1d": 0.59,
+   "chgYtd": -38.24,
+   "date": "2026-11-13"
   },
   "BMY": {
    "id": "BMY",
@@ -391,29 +391,29 @@
   "BN": {
    "id": "BN",
    "yahoo_ticker": "BN.PA",
-   "price": 68.9,
+   "price": 69.8,
    "currency": "EUR",
-   "chg1d": 1.23,
-   "chgYtd": -10.26,
-   "date": "2026-11-12"
+   "chg1d": 1.31,
+   "chgYtd": -9.09,
+   "date": "2026-11-13"
   },
   "BNP": {
    "id": "BNP",
    "yahoo_ticker": "BNP.PA",
-   "price": 95.68,
+   "price": 95.57,
    "currency": "EUR",
-   "chg1d": -0.09,
-   "chgYtd": 18.43,
-   "date": "2026-11-12"
+   "chg1d": -0.11,
+   "chgYtd": 18.29,
+   "date": "2026-11-13"
   },
   "BP": {
    "id": "BP",
    "yahoo_ticker": "BP.L",
-   "price": 567.0,
+   "price": 574.9,
    "currency": "GBp",
-   "chg1d": 0.0,
-   "chgYtd": 31.01,
-   "date": "2026-11-12"
+   "chg1d": 1.39,
+   "chgYtd": 32.83,
+   "date": "2026-11-13"
   },
   "BRKB": {
    "id": "BRKB",
@@ -436,11 +436,11 @@
   "BVI": {
    "id": "BVI",
    "yahoo_ticker": "BVI.PA",
-   "price": 30.19,
+   "price": 30.49,
    "currency": "EUR",
-   "chg1d": 0.47,
-   "chgYtd": 11.07,
-   "date": "2026-11-12"
+   "chg1d": 0.99,
+   "chgYtd": 12.18,
+   "date": "2026-11-13"
   },
   "BX": {
    "id": "BX",
@@ -463,20 +463,20 @@
   "CA": {
    "id": "CA",
    "yahoo_ticker": "CA.PA",
-   "price": 14.0,
+   "price": 14.215,
    "currency": "EUR",
-   "chg1d": 0.36,
-   "chgYtd": -1.62,
-   "date": "2026-11-12"
+   "chg1d": 1.54,
+   "chgYtd": -0.11,
+   "date": "2026-11-13"
   },
   "CAP": {
    "id": "CAP",
    "yahoo_ticker": "CAP.PA",
-   "price": 126.55,
+   "price": 127.4,
    "currency": "EUR",
-   "chg1d": 2.1,
-   "chgYtd": -11.04,
-   "date": "2026-11-12"
+   "chg1d": 0.67,
+   "chgYtd": -10.44,
+   "date": "2026-11-13"
   },
   "CAT": {
    "id": "CAT",
@@ -517,11 +517,11 @@
   "CFR": {
    "id": "CFR",
    "yahoo_ticker": "CFR.SW",
-   "price": 176.15,
+   "price": 169.45,
    "currency": "CHF",
-   "chg1d": 0.11,
-   "chgYtd": 2.38,
-   "date": "2026-11-12"
+   "chg1d": -3.8,
+   "chgYtd": -1.51,
+   "date": "2026-11-13"
   },
   "CMCSA": {
    "id": "CMCSA",
@@ -580,11 +580,11 @@
   "CS": {
    "id": "CS",
    "yahoo_ticker": "CS.PA",
-   "price": 46.58,
+   "price": 47.1,
    "currency": "EUR",
-   "chg1d": 1.0,
-   "chgYtd": 13.72,
-   "date": "2026-11-12"
+   "chg1d": 1.12,
+   "chgYtd": 14.99,
+   "date": "2026-11-13"
   },
   "CSCO": {
    "id": "CSCO",
@@ -598,11 +598,11 @@
   "CSPX": {
    "id": "CSPX",
    "yahoo_ticker": "CSPX.AS",
-   "price": 745.07,
+   "price": 737.03,
    "currency": "EUR",
-   "chg1d": 0.61,
-   "chgYtd": 18.54,
-   "date": "2026-11-12"
+   "chg1d": -1.08,
+   "chgYtd": 17.26,
+   "date": "2026-11-13"
   },
   "CVS": {
    "id": "CVS",
@@ -625,20 +625,20 @@
   "DB1": {
    "id": "DB1",
    "yahoo_ticker": "DB1.DE",
-   "price": 327.0,
+   "price": 330.4,
    "currency": "EUR",
-   "chg1d": -0.15,
-   "chgYtd": 46.18,
-   "date": "2026-11-12"
+   "chg1d": 1.04,
+   "chgYtd": 47.7,
+   "date": "2026-11-13"
   },
   "DBK": {
    "id": "DBK",
    "yahoo_ticker": "DBK.DE",
-   "price": 33.375,
+   "price": 33.185,
    "currency": "EUR",
-   "chg1d": -0.8,
-   "chgYtd": 0.8,
-   "date": "2026-11-12"
+   "chg1d": -0.57,
+   "chgYtd": 0.23,
+   "date": "2026-11-13"
   },
   "DDOG": {
    "id": "DDOG",
@@ -670,20 +670,20 @@
   "DG": {
    "id": "DG",
    "yahoo_ticker": "DG.PA",
-   "price": 115.2,
+   "price": 115.5,
    "currency": "EUR",
-   "chg1d": 0.39,
-   "chgYtd": -4.04,
-   "date": "2026-11-12"
+   "chg1d": 0.26,
+   "chgYtd": -3.79,
+   "date": "2026-11-13"
   },
   "DGE": {
    "id": "DGE",
    "yahoo_ticker": "DGE.L",
-   "price": 1899.5,
+   "price": 1921.5,
    "currency": "GBp",
-   "chg1d": 1.25,
-   "chgYtd": 18.46,
-   "date": "2026-11-12"
+   "chg1d": 1.16,
+   "chgYtd": 19.83,
+   "date": "2026-11-13"
   },
   "DHR": {
    "id": "DHR",
@@ -706,29 +706,29 @@
   "DSV": {
    "id": "DSV",
    "yahoo_ticker": "DSV.CO",
-   "price": 1476.5,
+   "price": 1482.5,
    "currency": "DKK",
-   "chg1d": 0.58,
-   "chgYtd": -8.58,
-   "date": "2026-11-12"
+   "chg1d": 0.41,
+   "chgYtd": -8.2,
+   "date": "2026-11-13"
   },
   "DSY": {
    "id": "DSY",
    "yahoo_ticker": "DSY.PA",
-   "price": 25.7,
+   "price": 25.98,
    "currency": "EUR",
-   "chg1d": 1.42,
-   "chgYtd": 7.8,
-   "date": "2026-11-12"
+   "chg1d": 1.09,
+   "chgYtd": 8.98,
+   "date": "2026-11-13"
   },
   "DTE": {
    "id": "DTE",
    "yahoo_ticker": "DTE.DE",
-   "price": 26.52,
+   "price": 26.6,
    "currency": "EUR",
-   "chg1d": 1.26,
-   "chgYtd": -4.12,
-   "date": "2026-11-12"
+   "chg1d": 0.3,
+   "chgYtd": -3.83,
+   "date": "2026-11-13"
   },
   "DUK": {
    "id": "DUK",
@@ -742,74 +742,74 @@
   "EIMI": {
    "id": "EIMI",
    "yahoo_ticker": "EIMI.MI",
-   "price": 45.435,
+   "price": 44.975,
    "currency": "EUR",
-   "chg1d": -1.41,
-   "chgYtd": 18.29,
-   "date": "2026-11-12"
+   "chg1d": -1.01,
+   "chgYtd": 17.09,
+   "date": "2026-11-13"
   },
   "EL": {
    "id": "EL",
    "yahoo_ticker": "EL.PA",
-   "price": 179.9,
+   "price": 182.35,
    "currency": "EUR",
-   "chg1d": -1.45,
-   "chgYtd": -33.35,
-   "date": "2026-11-12"
+   "chg1d": 1.36,
+   "chgYtd": -32.44,
+   "date": "2026-11-13"
   },
   "EN": {
    "id": "EN",
    "yahoo_ticker": "EN.PA",
-   "price": 43.99,
+   "price": 44.3,
    "currency": "EUR",
-   "chg1d": 0.39,
-   "chgYtd": -0.81,
-   "date": "2026-11-12"
+   "chg1d": 0.7,
+   "chgYtd": -0.11,
+   "date": "2026-11-13"
   },
   "ENEL": {
    "id": "ENEL",
    "yahoo_ticker": "ENEL.MI",
-   "price": 9.925,
+   "price": 9.955,
    "currency": "EUR",
-   "chg1d": 0.74,
-   "chgYtd": 11.81,
-   "date": "2026-11-12"
+   "chg1d": 0.3,
+   "chgYtd": 12.14,
+   "date": "2026-11-13"
   },
   "ENGI": {
    "id": "ENGI",
    "yahoo_ticker": "ENGI.PA",
-   "price": 25.14,
+   "price": 25.28,
    "currency": "EUR",
-   "chg1d": 1.53,
-   "chgYtd": 12.18,
-   "date": "2026-11-12"
+   "chg1d": 0.56,
+   "chgYtd": 12.81,
+   "date": "2026-11-13"
   },
   "ENI": {
    "id": "ENI",
    "yahoo_ticker": "ENI.MI",
-   "price": 25.47,
+   "price": 25.975,
    "currency": "EUR",
-   "chg1d": 1.07,
-   "chgYtd": 57.81,
-   "date": "2026-11-12"
+   "chg1d": 1.98,
+   "chgYtd": 60.94,
+   "date": "2026-11-13"
   },
   "ENR": {
    "id": "ENR",
    "yahoo_ticker": "ENR.DE",
-   "price": 132.52,
+   "price": 131.28,
    "currency": "EUR",
-   "chg1d": -0.18,
-   "chgYtd": 10.07,
-   "date": "2026-11-12"
+   "chg1d": -0.94,
+   "chgYtd": 9.04,
+   "date": "2026-11-13"
   },
   "ENX": {
    "id": "ENX",
    "yahoo_ticker": "ENX.PA",
-   "price": 166.2,
+   "price": 168.7,
    "currency": "EUR",
-   "chg1d": -0.72,
-   "chgYtd": 29.84,
-   "date": "2026-11-12"
+   "chg1d": 1.5,
+   "chgYtd": 31.8,
+   "date": "2026-11-13"
   },
   "EOG": {
    "id": "EOG",
@@ -832,11 +832,11 @@
   "ERF": {
    "id": "ERF",
    "yahoo_ticker": "ERF.PA",
-   "price": 87.96,
+   "price": 87.98,
    "currency": "EUR",
-   "chg1d": -0.05,
-   "chgYtd": 40.96,
-   "date": "2026-11-12"
+   "chg1d": 0.02,
+   "chgYtd": 40.99,
+   "date": "2026-11-13"
   },
   "ETN": {
    "id": "ETN",
@@ -868,155 +868,155 @@
   "FGR": {
    "id": "FGR",
    "yahoo_ticker": "FGR.PA",
-   "price": 109.35,
+   "price": 109.5,
    "currency": "EUR",
-   "chg1d": 0.6,
-   "chgYtd": -10.66,
-   "date": "2026-11-12"
+   "chg1d": 0.14,
+   "chgYtd": -10.54,
+   "date": "2026-11-13"
   },
   "FR0010361683": {
    "id": "FR0010361683",
    "yahoo_ticker": "INR.PA",
-   "price": 27.68,
+   "price": 27.625,
    "currency": "EUR",
-   "chg1d": 0.34,
-   "chgYtd": 0.13,
-   "date": "2026-11-12"
+   "chg1d": -0.2,
+   "chgYtd": -0.07,
+   "date": "2026-11-13"
   },
   "FR0011871128": {
    "id": "FR0011871128",
    "yahoo_ticker": "PSP5.PA",
-   "price": 60.72,
+   "price": 60.05,
    "currency": "EUR",
-   "chg1d": 0.65,
-   "chgYtd": 18.46,
-   "date": "2026-11-12"
+   "chg1d": -1.1,
+   "chgYtd": 17.15,
+   "date": "2026-11-13"
   },
   "FR0011882364": {
    "id": "FR0011882364",
    "yahoo_ticker": "AWAT.PA",
-   "price": 33.84,
+   "price": 33.885,
    "currency": "EUR",
-   "chg1d": 0.3,
-   "chgYtd": 11.06,
-   "date": "2026-11-12"
+   "chg1d": 0.13,
+   "chgYtd": 11.21,
+   "date": "2026-11-13"
   },
   "FR0013411980": {
    "id": "FR0013411980",
    "yahoo_ticker": "PTPXE.PA",
-   "price": 39.215,
+   "price": 39.125,
    "currency": "EUR",
-   "chg1d": 0.37,
-   "chgYtd": 22.51,
-   "date": "2026-11-12"
+   "chg1d": -0.23,
+   "chgYtd": 22.23,
+   "date": "2026-11-13"
   },
   "FR0014002CG3": {
    "id": "FR0014002CG3",
    "yahoo_ticker": "NRJC.MI",
-   "price": 19.078,
+   "price": 18.778,
    "currency": "EUR",
-   "chg1d": 0.13,
-   "chgYtd": 15.99,
-   "date": "2026-11-12"
+   "chg1d": -1.57,
+   "chgYtd": 14.17,
+   "date": "2026-11-13"
   },
   "FR0014002CH1": {
    "id": "FR0014002CH1",
    "yahoo_ticker": "WATC.PA",
-   "price": 7.519,
+   "price": 7.465,
    "currency": "EUR",
-   "chg1d": 1.2,
-   "chgYtd": 13.58,
-   "date": "2026-11-12"
+   "chg1d": -0.72,
+   "chgYtd": 12.76,
+   "date": "2026-11-13"
   },
   "FR001400S9V0": {
    "id": "FR001400S9V0",
    "yahoo_ticker": "MLUX.PA",
-   "price": 9.807,
+   "price": 9.776,
    "currency": "EUR",
-   "chg1d": -0.28,
-   "chgYtd": -2.72,
-   "date": "2026-11-12"
+   "chg1d": -0.32,
+   "chgYtd": -3.03,
+   "date": "2026-11-13"
   },
   "FR001400SDI8": {
    "id": "FR001400SDI8",
    "yahoo_ticker": "ISRA.PA",
-   "price": 13.402,
+   "price": 13.396,
    "currency": "EUR",
-   "chg1d": 0.33,
-   "chgYtd": 15.43,
-   "date": "2026-11-12"
+   "chg1d": -0.04,
+   "chgYtd": 15.38,
+   "date": "2026-11-13"
   },
   "FR001400SDM0": {
    "id": "FR001400SDM0",
    "yahoo_ticker": "ISRM.PA",
-   "price": 12.714,
+   "price": 12.578,
    "currency": "EUR",
-   "chg1d": 0.48,
-   "chgYtd": 17.69,
-   "date": "2026-11-12"
+   "chg1d": -1.07,
+   "chgYtd": 16.43,
+   "date": "2026-11-13"
   },
   "FR001400SDN8": {
    "id": "FR001400SDN8",
    "yahoo_ticker": "ISRU.PA",
-   "price": 12.398,
+   "price": 12.25,
    "currency": "EUR",
-   "chg1d": 2.6,
-   "chgYtd": 17.66,
-   "date": "2026-11-12"
+   "chg1d": -1.19,
+   "chgYtd": 16.26,
+   "date": "2026-11-13"
   },
   "FR001400U5Q4": {
    "id": "FR001400U5Q4",
    "yahoo_ticker": "DCAM.PA",
-   "price": 6.385,
+   "price": 6.332,
    "currency": "EUR",
-   "chg1d": 0.46,
-   "chgYtd": 17.78,
-   "date": "2026-11-12"
+   "chg1d": -0.83,
+   "chgYtd": 16.81,
+   "date": "2026-11-13"
   },
   "FR001400ZGO4": {
    "id": "FR001400ZGO4",
    "yahoo_ticker": "PEMS.PA",
-   "price": 7.163,
+   "price": 7.084,
    "currency": "EUR",
-   "chg1d": -1.24,
-   "chgYtd": 19.82,
-   "date": "2026-11-12"
+   "chg1d": -1.1,
+   "chgYtd": 18.5,
+   "date": "2026-11-13"
   },
   "FR001400ZGP1": {
    "id": "FR001400ZGP1",
    "yahoo_ticker": "MSES.PA",
-   "price": 6.149,
+   "price": 6.129,
    "currency": "EUR",
-   "chg1d": 0.26,
-   "chgYtd": 13.26,
-   "date": "2026-11-12"
+   "chg1d": -0.33,
+   "chgYtd": 12.89,
+   "date": "2026-11-13"
   },
   "FR001400ZGQ9": {
    "id": "FR001400ZGQ9",
    "yahoo_ticker": "CA40.PA",
-   "price": 5.591,
+   "price": 5.592,
    "currency": "EUR",
-   "chg1d": 0.52,
-   "chgYtd": 5.85,
-   "date": "2026-11-12"
+   "chg1d": 0.02,
+   "chgYtd": 5.87,
+   "date": "2026-11-13"
   },
   "FR001400ZGR7": {
    "id": "FR001400ZGR7",
    "yahoo_ticker": "PNAS.PA",
-   "price": 6.767,
+   "price": 6.632,
    "currency": "EUR",
-   "chg1d": 0.4,
-   "chgYtd": 18.89,
-   "date": "2026-11-12"
+   "chg1d": -1.99,
+   "chgYtd": 16.51,
+   "date": "2026-11-13"
   },
   "FR001400ZGS5": {
    "id": "FR001400ZGS5",
    "yahoo_ticker": "PSPS.PA",
-   "price": 6.629,
+   "price": 6.54,
    "currency": "EUR",
-   "chg1d": 0.27,
-   "chgYtd": 14.87,
-   "date": "2026-11-12"
+   "chg1d": -1.34,
+   "chgYtd": 13.33,
+   "date": "2026-11-13"
   },
   "FTNT": {
    "id": "FTNT",
@@ -1057,11 +1057,11 @@
   "GFC": {
    "id": "GFC",
    "yahoo_ticker": "GFC.PA",
-   "price": 64.6,
+   "price": 65.2,
    "currency": "EUR",
-   "chg1d": -0.39,
-   "chgYtd": -20.15,
-   "date": "2026-11-12"
+   "chg1d": 0.93,
+   "chgYtd": -19.41,
+   "date": "2026-11-13"
   },
   "GILD": {
    "id": "GILD",
@@ -1075,11 +1075,11 @@
   "GLE": {
    "id": "GLE",
    "yahoo_ticker": "GLE.PA",
-   "price": 67.42,
+   "price": 67.09,
    "currency": "EUR",
-   "chg1d": -0.28,
-   "chgYtd": -1.89,
-   "date": "2026-11-12"
+   "chg1d": -0.49,
+   "chgYtd": -2.37,
+   "date": "2026-11-13"
   },
   "GOOGL": {
    "id": "GOOGL",
@@ -1102,11 +1102,11 @@
   "GSK": {
    "id": "GSK",
    "yahoo_ticker": "GSK.L",
-   "price": 1901.0,
+   "price": 1911.5,
    "currency": "GBp",
-   "chg1d": 0.74,
-   "chgYtd": 4.19,
-   "date": "2026-11-12"
+   "chg1d": 0.55,
+   "chgYtd": 4.77,
+   "date": "2026-11-13"
   },
   "HD": {
    "id": "HD",
@@ -1129,29 +1129,29 @@
   "HEIA": {
    "id": "HEIA",
    "yahoo_ticker": "HEIA.AS",
-   "price": 83.9,
+   "price": 84.72,
    "currency": "EUR",
-   "chg1d": 0.65,
-   "chgYtd": 20.3,
-   "date": "2026-11-12"
+   "chg1d": 0.98,
+   "chgYtd": 21.48,
+   "date": "2026-11-13"
   },
   "HO": {
    "id": "HO",
    "yahoo_ticker": "HO.PA",
-   "price": 227.4,
+   "price": 227.1,
    "currency": "EUR",
-   "chg1d": -1.3,
-   "chgYtd": -1.04,
-   "date": "2026-11-12"
+   "chg1d": -0.13,
+   "chgYtd": -1.17,
+   "date": "2026-11-13"
   },
   "HOLN": {
    "id": "HOLN",
    "yahoo_ticker": "HOLN.SW",
-   "price": 75.28,
+   "price": 74.56,
    "currency": "CHF",
-   "chg1d": 0.11,
-   "chgYtd": -3.19,
-   "date": "2026-11-12"
+   "chg1d": -0.96,
+   "chgYtd": -4.12,
+   "date": "2026-11-13"
   },
   "HON": {
    "id": "HON",
@@ -1165,20 +1165,20 @@
   "HSBA": {
    "id": "HSBA",
    "yahoo_ticker": "HSBA.L",
-   "price": 1354.0,
+   "price": 1354.4,
    "currency": "GBp",
-   "chg1d": -0.12,
-   "chgYtd": 15.35,
-   "date": "2026-11-12"
+   "chg1d": 0.03,
+   "chgYtd": 15.39,
+   "date": "2026-11-13"
   },
   "IBE": {
    "id": "IBE",
    "yahoo_ticker": "IBE.MC",
-   "price": 23.34,
+   "price": 23.7,
    "currency": "EUR",
-   "chg1d": 0.6,
-   "chgYtd": 26.4,
-   "date": "2026-11-12"
+   "chg1d": 1.54,
+   "chgYtd": 28.35,
+   "date": "2026-11-13"
   },
   "IBM": {
    "id": "IBM",
@@ -1201,56 +1201,56 @@
   "IE0006FM6MI8": {
    "id": "IE0006FM6MI8",
    "yahoo_ticker": "WELS.DE",
-   "price": 13.818,
+   "price": 13.788,
    "currency": "EUR",
-   "chg1d": 1.17,
-   "chgYtd": 21.87,
-   "date": "2026-11-12"
+   "chg1d": -0.22,
+   "chgYtd": 21.61,
+   "date": "2026-11-13"
   },
   "IE000E7EI9P0": {
    "id": "IE000E7EI9P0",
    "yahoo_ticker": "WELU.DE",
-   "price": 26.76,
+   "price": 26.17,
    "currency": "EUR",
-   "chg1d": -0.17,
-   "chgYtd": 22.0,
-   "date": "2026-11-12"
+   "chg1d": -2.2,
+   "chgYtd": 19.31,
+   "date": "2026-11-13"
   },
   "IE000KYX7IP4": {
    "id": "IE000KYX7IP4",
    "yahoo_ticker": "WELK.DE",
-   "price": 20.89,
+   "price": 20.91,
    "currency": "EUR",
-   "chg1d": 0.43,
-   "chgYtd": 17.43,
-   "date": "2026-11-12"
+   "chg1d": 0.1,
+   "chgYtd": 17.54,
+   "date": "2026-11-13"
   },
   "IE00B1FZS467": {
    "id": "IE00B1FZS467",
    "yahoo_ticker": "INFR.AS",
-   "price": 35.755,
+   "price": 35.85,
    "currency": "EUR",
-   "chg1d": 1.29,
-   "chgYtd": 17.75,
-   "date": "2026-11-12"
+   "chg1d": 0.27,
+   "chgYtd": 18.06,
+   "date": "2026-11-13"
   },
   "IE00B3VWN518": {
    "id": "IE00B3VWN518",
    "yahoo_ticker": "CBU0.L",
-   "price": 150.55,
+   "price": 150.09,
    "currency": "USD",
-   "chg1d": -0.42,
-   "chgYtd": -3.28,
-   "date": "2026-11-12"
+   "chg1d": -0.31,
+   "chgYtd": -3.58,
+   "date": "2026-11-13"
   },
   "IFX": {
    "id": "IFX",
    "yahoo_ticker": "IFX.DE",
-   "price": 52.11,
+   "price": 49.875,
    "currency": "EUR",
-   "chg1d": -0.02,
-   "chgYtd": 38.11,
-   "date": "2026-11-12"
+   "chg1d": -4.29,
+   "chgYtd": 32.19,
+   "date": "2026-11-13"
   },
   "INFY": {
    "id": "INFY",
@@ -1264,11 +1264,11 @@
   "INGA": {
    "id": "INGA",
    "yahoo_ticker": "INGA.AS",
-   "price": 30.01,
+   "price": 30.125,
    "currency": "EUR",
-   "chg1d": -0.5,
-   "chgYtd": 24.99,
-   "date": "2026-11-12"
+   "chg1d": 0.38,
+   "chgYtd": 25.47,
+   "date": "2026-11-13"
   },
   "INTC": {
    "id": "INTC",
@@ -1291,11 +1291,11 @@
   "ISP": {
    "id": "ISP",
    "yahoo_ticker": "ISP.MI",
-   "price": 6.246,
+   "price": 6.263,
    "currency": "EUR",
-   "chg1d": -0.89,
-   "chgYtd": 5.49,
-   "date": "2026-11-12"
+   "chg1d": 0.27,
+   "chgYtd": 5.78,
+   "date": "2026-11-13"
   },
   "ISRG": {
    "id": "ISRG",
@@ -1309,20 +1309,20 @@
   "ITX": {
    "id": "ITX",
    "yahoo_ticker": "ITX.MC",
-   "price": 59.68,
+   "price": 59.64,
    "currency": "EUR",
-   "chg1d": -0.67,
-   "chgYtd": 5.93,
-   "date": "2026-11-12"
+   "chg1d": -0.07,
+   "chgYtd": 5.86,
+   "date": "2026-11-13"
   },
   "IWDA": {
    "id": "IWDA",
    "yahoo_ticker": "IWDA.AS",
-   "price": 131.6,
+   "price": 130.49,
    "currency": "EUR",
-   "chg1d": 0.5,
-   "chgYtd": 18.0,
-   "date": "2026-11-12"
+   "chg1d": -0.84,
+   "chgYtd": 17.0,
+   "date": "2026-11-13"
   },
   "JNJ": {
    "id": "JNJ",
@@ -1345,11 +1345,11 @@
   "KER": {
    "id": "KER",
    "yahoo_ticker": "KER.PA",
-   "price": 189.24,
+   "price": 184.64,
    "currency": "EUR",
-   "chg1d": -0.02,
-   "chgYtd": -37.13,
-   "date": "2026-11-12"
+   "chg1d": -2.43,
+   "chgYtd": -38.66,
+   "date": "2026-11-13"
   },
   "KKR": {
    "id": "KKR",
@@ -1381,20 +1381,20 @@
   "LDO": {
    "id": "LDO",
    "yahoo_ticker": "LDO.MI",
-   "price": 49.865,
+   "price": 50.1,
    "currency": "EUR",
-   "chg1d": -1.49,
-   "chgYtd": 1.43,
-   "date": "2026-11-12"
+   "chg1d": 0.47,
+   "chgYtd": 1.91,
+   "date": "2026-11-13"
   },
   "LI": {
    "id": "LI",
    "yahoo_ticker": "LI.PA",
-   "price": 37.1,
+   "price": 37.46,
    "currency": "EUR",
-   "chg1d": 0.6,
-   "chgYtd": 9.96,
-   "date": "2026-11-12"
+   "chg1d": 0.97,
+   "chgYtd": 11.03,
+   "date": "2026-11-13"
   },
   "LIN": {
    "id": "LIN",
@@ -1428,9 +1428,9 @@
    "yahoo_ticker": "LONN.SW",
    "price": 666.0,
    "currency": "CHF",
-   "chg1d": 0.36,
+   "chg1d": 0.0,
    "chgYtd": 23.84,
-   "date": "2026-11-12"
+   "date": "2026-11-13"
   },
   "LOW": {
    "id": "LOW",
@@ -1444,11 +1444,11 @@
   "LR": {
    "id": "LR",
    "yahoo_ticker": "LR.PA",
-   "price": 138.15,
+   "price": 136.4,
    "currency": "EUR",
-   "chg1d": -0.32,
-   "chgYtd": 8.57,
-   "date": "2026-11-12"
+   "chg1d": -1.27,
+   "chgYtd": 7.19,
+   "date": "2026-11-13"
   },
   "LRCX": {
    "id": "LRCX",
@@ -1462,92 +1462,92 @@
   "LSEG": {
    "id": "LSEG",
    "yahoo_ticker": "LSEG.L",
-   "price": 9724.0,
+   "price": 9756.0,
    "currency": "GBp",
-   "chg1d": 0.89,
-   "chgYtd": 8.62,
-   "date": "2026-11-12"
+   "chg1d": 0.33,
+   "chgYtd": 8.98,
+   "date": "2026-11-13"
   },
   "LU1437017350": {
    "id": "LU1437017350",
    "yahoo_ticker": "AEME.PA",
-   "price": 97.1,
+   "price": 96.11,
    "currency": "EUR",
-   "chg1d": -1.48,
-   "chgYtd": 20.46,
-   "date": "2026-11-12"
+   "chg1d": -1.02,
+   "chgYtd": 19.23,
+   "date": "2026-11-13"
   },
   "LU1563454310": {
    "id": "LU1563454310",
    "yahoo_ticker": "CLIM.PA",
-   "price": 48.39,
+   "price": 48.41,
    "currency": "EUR",
-   "chg1d": -0.3,
-   "chgYtd": -1.09,
-   "date": "2026-11-12"
+   "chg1d": 0.04,
+   "chgYtd": -1.05,
+   "date": "2026-11-13"
   },
   "LU1681037609": {
    "id": "LU1681037609",
    "yahoo_ticker": "TPXE.PA",
-   "price": 151.63,
+   "price": 151.33,
    "currency": "EUR",
-   "chg1d": 0.21,
-   "chgYtd": 22.8,
-   "date": "2026-11-12"
+   "chg1d": -0.2,
+   "chgYtd": 22.55,
+   "date": "2026-11-13"
   },
   "LU1834986900": {
    "id": "LU1834986900",
    "yahoo_ticker": "HLT.PA",
-   "price": 171.78,
+   "price": 171.64,
    "currency": "EUR",
-   "chg1d": 0.73,
-   "chgYtd": 13.79,
-   "date": "2026-11-12"
+   "chg1d": -0.08,
+   "chgYtd": 13.7,
+   "date": "2026-11-13"
   },
   "LU1861132840": {
    "id": "LU1861132840",
    "yahoo_ticker": "GOAI.PA",
-   "price": 140.07,
+   "price": 136.61,
    "currency": "EUR",
-   "chg1d": -0.03,
-   "chgYtd": 24.27,
-   "date": "2026-11-12"
+   "chg1d": -2.47,
+   "chgYtd": 21.2,
+   "date": "2026-11-13"
   },
   "LU1900068161": {
    "id": "LU1900068161",
    "yahoo_ticker": "APX.PA",
-   "price": 190.56,
+   "price": 187.57,
    "currency": "EUR",
-   "chg1d": -1.5,
-   "chgYtd": 21.11,
-   "date": "2026-11-12"
+   "chg1d": -1.57,
+   "chgYtd": 19.21,
+   "date": "2026-11-13"
   },
   "LU2195226068": {
    "id": "LU2195226068",
    "yahoo_ticker": "EPAB.PA",
-   "price": 43.305,
+   "price": 43.26,
    "currency": "EUR",
-   "chg1d": -0.2,
-   "chgYtd": 12.23,
-   "date": "2026-11-12"
+   "chg1d": -0.1,
+   "chgYtd": 12.12,
+   "date": "2026-11-13"
   },
   "LU2356220926": {
    "id": "LU2356220926",
    "yahoo_ticker": "EAH.DE",
-   "price": 7.1596,
+   "price": 7.1206,
    "currency": "EUR",
-   "chg1d": -0.32,
-   "chgYtd": -3.62,
-   "date": "2026-11-12"
+   "chg1d": -0.54,
+   "chgYtd": -4.15,
+   "date": "2026-11-13"
   },
   "LU3038520774": {
    "id": "LU3038520774",
    "yahoo_ticker": "DEFS.PA",
-   "price": 5.648,
+   "price": 5.616,
    "currency": "EUR",
-   "chg1d": -1.4,
-   "chgYtd": 0.43,
-   "date": "2026-11-12"
+   "chg1d": -0.57,
+   "chgYtd": -0.14,
+   "date": "2026-11-13"
   },
   "MA": {
    "id": "MA",
@@ -1570,20 +1570,20 @@
   "MBG": {
    "id": "MBG",
    "yahoo_ticker": "MBG.DE",
-   "price": 40.695,
+   "price": 40.755,
    "currency": "EUR",
-   "chg1d": -1.74,
-   "chgYtd": -32.25,
-   "date": "2026-11-12"
+   "chg1d": 0.15,
+   "chgYtd": -32.15,
+   "date": "2026-11-13"
   },
   "MC": {
    "id": "MC",
    "yahoo_ticker": "MC.PA",
-   "price": 404.7,
+   "price": 403.45,
    "currency": "EUR",
-   "chg1d": 0.4,
-   "chgYtd": -37.26,
-   "date": "2026-11-12"
+   "chg1d": -0.31,
+   "chgYtd": -37.45,
+   "date": "2026-11-13"
   },
   "MCD": {
    "id": "MCD",
@@ -1642,11 +1642,11 @@
   "ML": {
    "id": "ML",
    "yahoo_ticker": "ML.PA",
-   "price": 33.76,
+   "price": 33.71,
    "currency": "EUR",
-   "chg1d": 0.39,
-   "chgYtd": 19.25,
-   "date": "2026-11-12"
+   "chg1d": -0.15,
+   "chgYtd": 19.07,
+   "date": "2026-11-13"
   },
   "MMM": {
    "id": "MMM",
@@ -1705,11 +1705,11 @@
   "MT": {
    "id": "MT",
    "yahoo_ticker": "MT.AS",
-   "price": 58.8,
+   "price": 57.02,
    "currency": "EUR",
-   "chg1d": -1.24,
-   "chgYtd": 50.42,
-   "date": "2026-11-12"
+   "chg1d": -3.03,
+   "chgYtd": 45.87,
+   "date": "2026-11-13"
   },
   "MU": {
    "id": "MU",
@@ -1732,11 +1732,11 @@
   "MUV2": {
    "id": "MUV2",
    "yahoo_ticker": "MUV2.DE",
-   "price": 585.8,
+   "price": 591.2,
    "currency": "EUR",
-   "chg1d": 2.88,
-   "chgYtd": 4.2,
-   "date": "2026-11-12"
+   "chg1d": 0.92,
+   "chgYtd": 5.16,
+   "date": "2026-11-13"
   },
   "NEE": {
    "id": "NEE",
@@ -1759,11 +1759,11 @@
   "NESN": {
    "id": "NESN",
    "yahoo_ticker": "NESN.SW",
-   "price": 86.57,
+   "price": 87.72,
    "currency": "CHF",
-   "chg1d": 0.77,
-   "chgYtd": 9.94,
-   "date": "2026-11-12"
+   "chg1d": 1.33,
+   "chgYtd": 11.4,
+   "date": "2026-11-13"
   },
   "NFLX": {
    "id": "NFLX",
@@ -1795,29 +1795,29 @@
   "NOKIA": {
    "id": "NOKIA",
    "yahoo_ticker": "NOKIA.HE",
-   "price": 7.638,
+   "price": 7.294,
    "currency": "EUR",
-   "chg1d": -1.39,
-   "chgYtd": 37.08,
-   "date": "2026-11-12"
+   "chg1d": -4.5,
+   "chgYtd": 30.9,
+   "date": "2026-11-13"
   },
   "NOVN": {
    "id": "NOVN",
    "yahoo_ticker": "NOVN.SW",
-   "price": 134.22,
+   "price": 134.06,
    "currency": "CHF",
-   "chg1d": 1.11,
-   "chgYtd": 22.46,
-   "date": "2026-11-12"
+   "chg1d": -0.12,
+   "chgYtd": 22.32,
+   "date": "2026-11-13"
   },
   "NOVO": {
    "id": "NOVO",
    "yahoo_ticker": "NOVO-B.CO",
-   "price": 275.75,
+   "price": 278.45,
    "currency": "DKK",
-   "chg1d": 1.12,
-   "chgYtd": -15.22,
-   "date": "2026-11-12"
+   "chg1d": 0.98,
+   "chgYtd": -14.39,
+   "date": "2026-11-13"
   },
   "NOW": {
    "id": "NOW",
@@ -1849,20 +1849,20 @@
   "OR": {
    "id": "OR",
    "yahoo_ticker": "OR.PA",
-   "price": 446.85,
+   "price": 451.2,
    "currency": "EUR",
-   "chg1d": 0.04,
-   "chgYtd": 21.89,
-   "date": "2026-11-12"
+   "chg1d": 0.97,
+   "chgYtd": 23.08,
+   "date": "2026-11-13"
   },
   "ORA": {
    "id": "ORA",
    "yahoo_ticker": "ORA.PA",
-   "price": 15.485,
+   "price": 15.62,
    "currency": "EUR",
-   "chg1d": 0.42,
-   "chgYtd": 9.05,
-   "date": "2026-11-12"
+   "chg1d": 0.87,
+   "chgYtd": 10.0,
+   "date": "2026-11-13"
   },
   "ORCL": {
    "id": "ORCL",
@@ -1948,11 +1948,11 @@
   "PHIA": {
    "id": "PHIA",
    "yahoo_ticker": "PHIA.AS",
-   "price": 27.26,
+   "price": 27.43,
    "currency": "EUR",
-   "chg1d": 0.48,
-   "chgYtd": 17.3,
-   "date": "2026-11-12"
+   "chg1d": 0.62,
+   "chgYtd": 18.03,
+   "date": "2026-11-13"
   },
   "PLD": {
    "id": "PLD",
@@ -1984,20 +1984,20 @@
   "PRX": {
    "id": "PRX",
    "yahoo_ticker": "PRX.AS",
-   "price": 36.1,
+   "price": 35.69,
    "currency": "EUR",
-   "chg1d": -2.35,
-   "chgYtd": -31.69,
-   "date": "2026-11-12"
+   "chg1d": -1.14,
+   "chgYtd": -32.47,
+   "date": "2026-11-13"
   },
   "PRY": {
    "id": "PRY",
    "yahoo_ticker": "PRY.MI",
-   "price": 110.5,
+   "price": 107.65,
    "currency": "EUR",
-   "chg1d": -1.16,
-   "chgYtd": 27.92,
-   "date": "2026-11-12"
+   "chg1d": -2.58,
+   "chgYtd": 24.62,
+   "date": "2026-11-13"
   },
   "PUB": {
    "id": "PUB",
@@ -2006,7 +2006,8 @@
    "currency": "EUR",
    "chg1d": 0.57,
    "chgYtd": 18.71,
-   "date": "2026-11-12"
+   "date": "2026-11-12",
+   "stale": true
   },
   "PWR": {
    "id": "PWR",
@@ -2029,65 +2030,65 @@
   "RACE": {
    "id": "RACE",
    "yahoo_ticker": "RACE.MI",
-   "price": 369.3,
+   "price": 371.8,
    "currency": "EUR",
-   "chg1d": -1.64,
-   "chgYtd": 15.88,
-   "date": "2026-11-12"
+   "chg1d": 0.68,
+   "chgYtd": 16.66,
+   "date": "2026-11-13"
   },
   "RHM": {
    "id": "RHM",
    "yahoo_ticker": "RHM.DE",
-   "price": 772.6,
+   "price": 765.5,
    "currency": "EUR",
-   "chg1d": -2.71,
-   "chgYtd": -50.51,
-   "date": "2026-11-12"
+   "chg1d": -0.92,
+   "chgYtd": -50.96,
+   "date": "2026-11-13"
   },
   "RI": {
    "id": "RI",
    "yahoo_ticker": "RI.PA",
-   "price": 71.6,
+   "price": 72.78,
    "currency": "EUR",
-   "chg1d": 0.53,
-   "chgYtd": -2.05,
-   "date": "2026-11-12"
+   "chg1d": 1.65,
+   "chgYtd": -0.44,
+   "date": "2026-11-13"
   },
   "RIO": {
    "id": "RIO",
    "yahoo_ticker": "RIO.L",
-   "price": 6325.0,
+   "price": 6296.0,
    "currency": "GBp",
-   "chg1d": -0.94,
-   "chgYtd": 5.52,
-   "date": "2026-11-12"
+   "chg1d": -0.46,
+   "chgYtd": 5.04,
+   "date": "2026-11-13"
   },
   "RMS": {
    "id": "RMS",
    "yahoo_ticker": "RMS.PA",
-   "price": 1352.5,
+   "price": 1341.5,
    "currency": "EUR",
-   "chg1d": -0.07,
-   "chgYtd": -36.26,
-   "date": "2026-11-12"
+   "chg1d": -0.81,
+   "chgYtd": -36.78,
+   "date": "2026-11-13"
   },
   "RNO": {
    "id": "RNO",
    "yahoo_ticker": "RNO.PA",
-   "price": 28.23,
+   "price": 28.41,
    "currency": "EUR",
-   "chg1d": -3.68,
-   "chgYtd": -20.3,
-   "date": "2026-11-12"
+   "chg1d": 0.64,
+   "chgYtd": -19.79,
+   "date": "2026-11-13"
   },
   "RR": {
    "id": "RR",
    "yahoo_ticker": "RR.L",
-   "price": 1369.6,
+   "price": 1350.6,
    "currency": "GBp",
-   "chg1d": 2.01,
-   "chgYtd": 19.1,
-   "date": "2026-11-12"
+   "chg1d": -1.39,
+   "chgYtd": 17.44,
+   "date": "2026-11-13"
   },
   "RTX": {
    "id": "RTX",
@@ -2110,38 +2111,38 @@
   "SAF": {
    "id": "SAF",
    "yahoo_ticker": "SAF.PA",
-   "price": 312.3,
+   "price": 306.6,
    "currency": "EUR",
-   "chg1d": -0.06,
-   "chgYtd": 5.01,
-   "date": "2026-11-12"
+   "chg1d": -1.83,
+   "chgYtd": 3.09,
+   "date": "2026-11-13"
   },
   "SAN": {
    "id": "SAN",
    "yahoo_ticker": "SAN.PA",
-   "price": 87.98,
+   "price": 87.6,
    "currency": "EUR",
-   "chg1d": 1.58,
-   "chgYtd": 6.36,
-   "date": "2026-11-12"
+   "chg1d": -0.43,
+   "chgYtd": 5.9,
+   "date": "2026-11-13"
   },
   "SANES": {
    "id": "SANES",
    "yahoo_ticker": "SAN.MC",
-   "price": 11.082,
+   "price": 11.09,
    "currency": "EUR",
-   "chg1d": -1.88,
-   "chgYtd": 10.05,
-   "date": "2026-11-12"
+   "chg1d": 0.07,
+   "chgYtd": 10.13,
+   "date": "2026-11-13"
   },
   "SAP": {
    "id": "SAP",
    "yahoo_ticker": "SAP.DE",
-   "price": 212.55,
+   "price": 213.45,
    "currency": "EUR",
-   "chg1d": 0.76,
-   "chgYtd": 2.02,
-   "date": "2026-11-12"
+   "chg1d": 0.42,
+   "chgYtd": 2.45,
+   "date": "2026-11-13"
   },
   "SBUX": {
    "id": "SBUX",
@@ -2173,20 +2174,20 @@
   "SGO": {
    "id": "SGO",
    "yahoo_ticker": "SGO.PA",
-   "price": 75.9,
+   "price": 75.3,
    "currency": "EUR",
-   "chg1d": 0.53,
-   "chgYtd": -12.72,
-   "date": "2026-11-12"
+   "chg1d": -0.79,
+   "chgYtd": -13.41,
+   "date": "2026-11-13"
   },
   "SHEL": {
    "id": "SHEL",
    "yahoo_ticker": "SHEL.L",
-   "price": 3665.0,
+   "price": 3719.5,
    "currency": "GBp",
-   "chg1d": -0.15,
-   "chgYtd": 33.76,
-   "date": "2026-11-12"
+   "chg1d": 1.49,
+   "chgYtd": 35.75,
+   "date": "2026-11-13"
   },
   "SHOP": {
    "id": "SHOP",
@@ -2200,11 +2201,11 @@
   "SIE": {
    "id": "SIE",
    "yahoo_ticker": "SIE.DE",
-   "price": 281.7,
+   "price": 279.4,
    "currency": "EUR",
-   "chg1d": 1.7,
-   "chgYtd": 17.79,
-   "date": "2026-11-12"
+   "chg1d": -0.82,
+   "chgYtd": 16.83,
+   "date": "2026-11-13"
   },
   "SLB": {
    "id": "SLB",
@@ -2236,11 +2237,11 @@
   "SONY": {
    "id": "SONY",
    "yahoo_ticker": "6758.T",
-   "price": 4353.0,
+   "price": 4281.0,
    "currency": "JPY",
-   "chg1d": 1.68,
-   "chgYtd": 8.18,
-   "date": "2026-11-13"
+   "chg1d": 1.93,
+   "chgYtd": 6.39,
+   "date": "2026-11-12"
   },
   "SPG": {
    "id": "SPG",
@@ -2272,38 +2273,38 @@
   "SSNLF": {
    "id": "SSNLF",
    "yahoo_ticker": "005930.KS",
-   "price": 206000.0,
+   "price": 208000.0,
    "currency": "KRW",
-   "chg1d": -0.96,
-   "chgYtd": 71.81,
-   "date": "2026-11-13"
+   "chg1d": 0.97,
+   "chgYtd": 73.48,
+   "date": "2026-11-12"
   },
   "STLAP": {
    "id": "STLAP",
    "yahoo_ticker": "STLAP.PA",
-   "price": 3.551,
+   "price": 3.5125,
    "currency": "EUR",
-   "chg1d": -4.36,
-   "chgYtd": -62.22,
-   "date": "2026-11-12"
+   "chg1d": -1.08,
+   "chgYtd": -62.63,
+   "date": "2026-11-13"
   },
   "STMPA": {
    "id": "STMPA",
    "yahoo_ticker": "STMPA.PA",
-   "price": 42.34,
+   "price": 41.945,
    "currency": "EUR",
-   "chg1d": 0.39,
-   "chgYtd": 88.68,
-   "date": "2026-11-12"
+   "chg1d": -0.93,
+   "chgYtd": 86.92,
+   "date": "2026-11-13"
   },
   "SU": {
    "id": "SU",
    "yahoo_ticker": "SU.PA",
-   "price": 244.8,
+   "price": 243.45,
    "currency": "EUR",
-   "chg1d": 0.95,
-   "chgYtd": 4.21,
-   "date": "2026-11-12"
+   "chg1d": -0.55,
+   "chgYtd": 3.64,
+   "date": "2026-11-13"
   },
   "SYK": {
    "id": "SYK",
@@ -2326,11 +2327,11 @@
   "TCEHY": {
    "id": "TCEHY",
    "yahoo_ticker": "0700.HK",
-   "price": 386.6,
+   "price": 398.8,
    "currency": "HKD",
-   "chg1d": -3.06,
-   "chgYtd": -35.46,
-   "date": "2026-11-13"
+   "chg1d": -2.64,
+   "chgYtd": -33.42,
+   "date": "2026-11-12"
   },
   "TJX": {
    "id": "TJX",
@@ -2344,11 +2345,11 @@
   "TM": {
    "id": "TM",
    "yahoo_ticker": "7203.T",
-   "price": 3418.0,
+   "price": 3408.0,
    "currency": "JPY",
-   "chg1d": 0.29,
-   "chgYtd": 1.85,
-   "date": "2026-11-13"
+   "chg1d": -0.79,
+   "chgYtd": 1.55,
+   "date": "2026-11-12"
   },
   "TMO": {
    "id": "TMO",
@@ -2389,11 +2390,11 @@
   "TTE": {
    "id": "TTE",
    "yahoo_ticker": "TTE.PA",
-   "price": 80.63,
+   "price": 82.17,
    "currency": "EUR",
-   "chg1d": 1.59,
-   "chgYtd": 45.04,
-   "date": "2026-11-12"
+   "chg1d": 1.91,
+   "chgYtd": 47.81,
+   "date": "2026-11-13"
   },
   "TTWO": {
    "id": "TTWO",
@@ -2425,29 +2426,29 @@
   "UBSG": {
    "id": "UBSG",
    "yahoo_ticker": "UBSG.SW",
-   "price": 40.73,
+   "price": 40.45,
    "currency": "CHF",
-   "chg1d": -1.14,
-   "chgYtd": 10.2,
-   "date": "2026-11-12"
+   "chg1d": -0.69,
+   "chgYtd": 9.44,
+   "date": "2026-11-13"
   },
   "UCG": {
    "id": "UCG",
    "yahoo_ticker": "UCG.MI",
-   "price": 84.24,
+   "price": 83.68,
    "currency": "EUR",
-   "chg1d": 0.0,
-   "chgYtd": 18.78,
-   "date": "2026-11-12"
+   "chg1d": -0.66,
+   "chgYtd": 17.99,
+   "date": "2026-11-13"
   },
   "ULVR": {
    "id": "ULVR",
    "yahoo_ticker": "ULVR.L",
-   "price": 4928.5,
+   "price": 4987.5,
    "currency": "GBp",
-   "chg1d": 0.25,
-   "chgYtd": 1.42,
-   "date": "2026-11-12"
+   "chg1d": 1.2,
+   "chgYtd": 2.63,
+   "date": "2026-11-13"
   },
   "UNH": {
    "id": "UNH",
@@ -2479,11 +2480,11 @@
   "URW": {
    "id": "URW",
    "yahoo_ticker": "URW.PA",
-   "price": 93.14,
+   "price": 93.16,
    "currency": "EUR",
-   "chg1d": -0.26,
-   "chgYtd": 0.41,
-   "date": "2026-11-12"
+   "chg1d": 0.02,
+   "chgYtd": 0.43,
+   "date": "2026-11-13"
   },
   "V": {
    "id": "V",
@@ -2497,29 +2498,29 @@
   "VIE": {
    "id": "VIE",
    "yahoo_ticker": "VIE.PA",
-   "price": 34.66,
+   "price": 34.94,
    "currency": "EUR",
-   "chg1d": 1.05,
-   "chgYtd": 16.62,
-   "date": "2026-11-12"
+   "chg1d": 0.81,
+   "chgYtd": 17.56,
+   "date": "2026-11-13"
   },
   "VOLVB": {
    "id": "VOLVB",
    "yahoo_ticker": "VOLV-B.ST",
-   "price": 324.0,
+   "price": 323.4,
    "currency": "SEK",
-   "chg1d": 0.28,
-   "chgYtd": 9.5,
-   "date": "2026-11-12"
+   "chg1d": -0.19,
+   "chgYtd": 9.29,
+   "date": "2026-11-13"
   },
   "VOW3": {
    "id": "VOW3",
    "yahoo_ticker": "VOW3.DE",
-   "price": 67.72,
+   "price": 67.48,
    "currency": "EUR",
-   "chg1d": -2.36,
-   "chgYtd": -34.6,
-   "date": "2026-11-12"
+   "chg1d": -0.35,
+   "chgYtd": -34.83,
+   "date": "2026-11-13"
   },
   "VRT": {
    "id": "VRT",
@@ -2542,11 +2543,11 @@
   "VWCE": {
    "id": "VWCE",
    "yahoo_ticker": "VWCE.DE",
-   "price": 171.42,
+   "price": 169.86,
    "currency": "EUR",
-   "chg1d": 0.29,
-   "chgYtd": 17.88,
-   "date": "2026-11-12"
+   "chg1d": -0.91,
+   "chgYtd": 16.81,
+   "date": "2026-11-13"
   },
   "VZ": {
    "id": "VZ",
@@ -2605,27 +2606,28 @@
   "ZURN": {
    "id": "ZURN",
    "yahoo_ticker": "ZURN.SW",
-   "price": 650.8,
+   "price": 655.4,
    "currency": "CHF",
-   "chg1d": 2.1,
-   "chgYtd": 8.14,
-   "date": "2026-11-12"
+   "chg1d": 0.71,
+   "chgYtd": 8.91,
+   "date": "2026-11-13"
   }
  },
  "missing": [
   "FR0011720911",
+  "PUB",
   "ROG"
  ],
  "fx": {
   "EUR": 1.0,
-  "CHF": 1.07959881,
+  "CHF": 1.08031025,
   "DKK": 0.13377031,
-  "GBP": 1.19697408,
-  "HKD": 0.11526594,
-  "JPY": 0.00565611,
-  "KRW": 0.00067686,
-  "SEK": 0.09004482,
-  "USD": 0.90380001,
-  "GBp": 0.0119697408
+  "GBP": 1.19743267,
+  "HKD": 0.11557501,
+  "JPY": 0.00566996,
+  "KRW": 0.00067866,
+  "SEK": 0.08998155,
+  "USD": 0.90650002,
+  "GBp": 0.0119743267
  }
 }
