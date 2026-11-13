@@ -290,3 +290,4 @@ WM,Waste Management,,WM,"Waste Management, Inc.",USD,NYQ,2026-11-12,ok,
 WMT,Walmart,US9311421039,WMT,Walmart Inc.,USD,NMS,2026-11-12,ok,
 XOM,ExxonMobil,US30231G1022,XOM,ExxonMobil Holdings Corporation,USD,NYQ,2026-11-12,ok,
 ZURN,Zurich Insurance,,ZURN.SW,Zurich Insurance Group AG,CHF,EBS,2026-11-13,ok,
+TTWO,"Take-Two Interactive Software, Inc.",,TTWO,"Take-Two Interactive Software, Inc.",USD,NMS,2026-11-12,ok,added with add_asset.py
