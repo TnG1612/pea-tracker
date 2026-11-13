@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T12:58:21+00:00",
+ "generatedAt": "2026-11-13T12:59:34+00:00",
  "prices": {
   "4GLD": {
    "id": "4GLD",
@@ -512,7 +512,8 @@
    "currency": "USD",
    "chg1d": 2.79,
    "chgYtd": -20.06,
-   "date": "2026-11-12"
+   "date": "2026-11-12",
+   "stale": true
   },
   "CFR": {
    "id": "CFR",
@@ -2604,6 +2605,7 @@
   }
  },
  "missing": [
+  "CEG",
   "FR0011720911",
   "ROG"
  ]
