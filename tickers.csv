@@ -1,0 +1,292 @@
+id,name,isin,ticker_in_dashboard,alpha_vantage_symbol,type,currency,pea,zone
+4GLD,Xetra-Gold (physical gold),DE000A0S9GB0,4GLD,4GLD.DEX,ETF,€,no,Monde
+AAPL,Apple,US0378331005,AAPL,,Action,$,no,États-Unis
+ABBN,ABB,,ABBN.SW,,Action,CHF,no,Suisse
+ABBV,AbbVie,US00287Y1091,ABBV,,Action,$,no,États-Unis
+ABI,AB InBev,,ABI.BR,,Action,€,yes,Europe
+ABNB,Airbnb,,ABNB,,Action,$,no,États-Unis
+ABT,Abbott Laboratories,,ABT,,Action,$,no,États-Unis
+AC,Accor,FR0000120404,AC.PA,AC.PAR,Action,€,yes,France
+ACA,Crédit Agricole SA,FR0000045072,ACA.PA,ACA.PAR,Action,€,yes,France
+ACN,Accenture,,ACN,,Action,$,no,États-Unis
+AD,Ahold Delhaize,NL0011794037,AD.AS,,Action,EUR,yes,Europe
+ADBE,Adobe,,ADBE,,Action,$,no,États-Unis
+ADI,Analog Devices,,ADI,,Action,$,no,États-Unis
+ADS,Adidas,,ADS.DE,,Action,€,yes,Europe
+ADYEN,Adyen,,ADYEN.AS,,Action,€,yes,Europe
+AI,Air Liquide,FR0000120073,AI.PA,AI.PAR,Action,EUR,yes,France
+AIR,Airbus,NL0000235190,AIR.PA,,Action,EUR,yes,Europe
+ALO,Alstom,FR0010220475,ALO.PA,ALO.PAR,Action,EUR,yes,France
+ALV,Allianz,DE0008404005,ALV.DE,,Action,EUR,yes,Europe
+AMAT,Applied Materials,,AMAT,,Action,$,no,États-Unis
+AMD,AMD,US0079031078,AMD,,Action,$,no,États-Unis
+AMGN,Amgen,,AMGN,,Action,$,no,États-Unis
+AMS,Amadeus IT Group,,AMS.MC,,Action,€,yes,Europe
+AMT,American Tower,,AMT,,Action,$,no,États-Unis
+AMZN,Amazon,US0231351067,AMZN,AMZN,Action,$,no,États-Unis
+ANET,Arista Networks,,ANET,,Action,$,no,États-Unis
+APP,AppLovin,,APP,,Action,$,no,États-Unis
+ARM,Arm Holdings,,ARM,,Action,$,no,Royaume-Uni
+ASML,ASML,NL0010273215,ASML.AS,ASML.AMS,Action,EUR,yes,Europe
+ATCOA,Atlas Copco,,ATCO-A.ST,,Action,SEK,yes,Europe
+AVGO,Broadcom,US11135F1012,AVGO,,Action,$,no,États-Unis
+AXP,American Express,,AXP,,Action,$,no,États-Unis
+AZN,AstraZeneca,GB0009895292,AZN.L,,Action,£,no,Royaume-Uni
+BA,Boeing,,BA,,Action,$,no,États-Unis
+BABA,Alibaba,US01609W1027,BABA,,Action,$,no,Chine
+BAC,Bank of America,,BAC,,Action,$,no,États-Unis
+BAES,BAE Systems,,BA.L,,Action,£,no,Royaume-Uni
+BBVA,BBVA,,BBVA.MC,,Action,€,yes,Europe
+BHP,BHP Group,,BHP,,Action,$,no,Monde
+BKNG,Booking Holdings,,BKNG,,Action,$,no,États-Unis
+BLK,BlackRock,,BLK,,Action,$,no,États-Unis
+BMW,BMW,,BMW.DE,,Action,€,yes,Europe
+BMY,Bristol-Myers Squibb,,BMY,,Action,$,no,États-Unis
+BN,Danone,FR0000120644,BN.PA,BN.PAR,Action,EUR,yes,France
+BNP,BNP Paribas,FR0000131104,BNP.PA,BNP.PAR,Action,EUR,yes,France
+BP,BP,,BP.L,,Action,£,no,Royaume-Uni
+BRKB,Berkshire Hathaway B,US0846707026,BRK.B,BRK-B,Action,$,no,États-Unis
+BSX,Boston Scientific,,BSX,,Action,$,no,États-Unis
+BVI,Bureau Veritas,FR0006174348,BVI.PA,BVI.PAR,Action,€,yes,France
+BX,Blackstone,,BX,,Action,$,no,États-Unis
+C,Citigroup,,C,,Action,$,no,États-Unis
+CA,Carrefour,FR0000120172,CA.PA,CA.PAR,Action,€,yes,France
+CAP,Capgemini,FR0000125338,CAP.PA,CAP.PAR,Action,EUR,yes,France
+CAT,Caterpillar,,CAT,,Action,$,no,États-Unis
+CB,Chubb,,CB,,Action,$,no,États-Unis
+CDNS,Cadence Design Systems,,CDNS,,Action,$,no,États-Unis
+CEG,Constellation Energy,,CEG,,Action,$,no,États-Unis
+CFR,Richemont,,CFR.SW,,Action,CHF,no,Suisse
+CMCSA,Comcast,,CMCSA,,Action,$,no,États-Unis
+CME,CME Group,,CME,,Action,$,no,États-Unis
+COP,ConocoPhillips,,COP,,Action,$,no,États-Unis
+COST,Costco,US22160K1051,COST,,Action,$,no,États-Unis
+CRM,Salesforce,,CRM,,Action,$,no,États-Unis
+CRWD,CrowdStrike,US22788C1053,CRWD,,Action,$,no,États-Unis
+CS,AXA,FR0000120628,CS.PA,,Action,EUR,yes,France
+CSCO,Cisco Systems,,CSCO,,Action,$,no,États-Unis
+CSPX,iShares Core S&P 500,IE00B5BMR087,CSPX,CSPX.LON,ETF,€,no,États-Unis
+CVS,CVS Health,,CVS,,Action,$,no,États-Unis
+CVX,Chevron,,CVX,,Action,$,no,États-Unis
+DB1,Deutsche Börse,,DB1.DE,,Action,€,yes,Europe
+DBK,Deutsche Bank,,DBK.DE,,Action,€,yes,Europe
+DDOG,Datadog,,DDOG,,Action,$,no,États-Unis
+DE,Deere & Co,,DE,,Action,$,no,États-Unis
+DELL,Dell Technologies,,DELL,,Action,$,no,États-Unis
+DG,Vinci,FR0000125486,DG.PA,DG.PAR,Action,EUR,yes,France
+DGE,Diageo,,DGE.L,,Action,£,no,Royaume-Uni
+DHR,Danaher,,DHR,,Action,$,no,États-Unis
+DIS,Walt Disney,,DIS,,Action,$,no,États-Unis
+DSV,DSV,,DSV.CO,,Action,DKK,yes,Europe
+DSY,Dassault Systèmes,FR0014003TT8,DSY.PA,DSY.PAR,Action,EUR,yes,France
+DTE,Deutsche Telekom,DE0005557508,DTE.DE,DTE.DEX,Action,EUR,yes,Europe
+DUK,Duke Energy,,DUK,,Action,$,no,États-Unis
+EIMI,iShares Core MSCI EM IMI,IE00BKM4GZ66,EIMI,EIMI.LON,ETF,€,no,Émergents
+EL,EssilorLuxottica,FR0000121667,EL.PA,EL.PAR,Action,EUR,yes,France
+EN,Bouygues,FR0000120503,EN.PA,EN.PAR,Action,€,yes,France
+ENEL,Enel,,ENEL.MI,,Action,€,yes,Europe
+ENGI,Engie,FR0010208488,ENGI.PA,,Action,EUR,yes,France
+ENI,Eni,,ENI.MI,,Action,€,yes,Europe
+ENR,Siemens Energy,,ENR.DE,,Action,€,yes,Europe
+ENX,Euronext,NL0006294274,ENX.PA,ENX.PAR,Action,€,yes,Europe
+EOG,EOG Resources,,EOG,,Action,$,no,États-Unis
+EQIX,Equinix,,EQIX,,Action,$,no,États-Unis
+ERF,Eurofins Scientific,FR0014000MR3,ERF.PA,ERF.PAR,Action,€,yes,Europe
+ETN,Eaton,,ETN,,Action,$,no,États-Unis
+FCX,Freeport-McMoRan,,FCX,,Action,$,no,États-Unis
+FDX,FedEx,,FDX,,Action,$,no,États-Unis
+FGR,Eiffage,FR0000130452,FGR.PA,FGR.PAR,Action,€,yes,France
+FR0010361683,Amundi MSCI India,FR0010361683,,,ETF,EUR,no,Inde
+FR0011720911,Amundi MSCI China A,FR0011720911,,,ETF,€,no,Chine
+FR0011871128,Amundi PEA S&P 500,FR0011871128,,,ETF,EUR,yes,États-Unis
+FR0011882364,Amundi PEA Eau (MSCI Water),FR0011882364,,,ETF,EUR,yes,Monde
+FR0013411980,Amundi PEA Japon (TOPIX),FR0013411980,PTPXE,,ETF,EUR,yes,Japon
+FR0014002CG3,Amundi MSCI New Energy,FR0014002CG3,,,ETF,EUR,no,Monde
+FR0014002CH1,Amundi MSCI Water (accumulating),FR0014002CH1,,,ETF,EUR,no,Monde
+FR001400S9V0,Amundi PEA Luxe Monde,FR001400S9V0,,,ETF,EUR,yes,Monde
+FR001400SDI8,Amundi Label ISR Actions Europe,FR001400SDI8,,,ETF,EUR,no,Europe
+FR001400SDM0,Amundi Label ISR Actions Monde,FR001400SDM0,,,ETF,EUR,no,Monde
+FR001400SDN8,Amundi Label ISR Actions USA,FR001400SDN8,,,ETF,EUR,no,États-Unis
+FR001400U5Q4,Amundi PEA Monde (MSCI World),FR001400U5Q4,DCAM,DCAM.PAR,ETF,EUR,yes,Monde
+FR001400ZGO4,Amundi PEA Emergent ESG Transition S,FR001400ZGO4,,,ETF,EUR,yes,Émergents
+FR001400ZGP1,Amundi Euro Stoxx 50 II S,FR001400ZGP1,,,ETF,EUR,yes,Zone euro
+FR001400ZGQ9,Amundi CAC 40 S,FR001400ZGQ9,,,ETF,EUR,yes,France
+FR001400ZGR7,Amundi PEA Nasdaq-100 S,FR001400ZGR7,,,ETF,EUR,yes,États-Unis
+FR001400ZGS5,Amundi PEA S&P 500 Screened S,FR001400ZGS5,,,ETF,EUR,yes,États-Unis
+FTNT,Fortinet,,FTNT,,Action,$,no,États-Unis
+GD,General Dynamics,,GD,,Action,$,no,États-Unis
+GE,GE Aerospace,,GE,,Action,$,no,États-Unis
+GEV,GE Vernova,,GEV,,Action,$,no,États-Unis
+GFC,Gecina,FR0010040865,GFC.PA,,Action,EUR,yes,France
+GILD,Gilead Sciences,,GILD,,Action,$,no,États-Unis
+GLE,Société Générale,FR0000130809,GLE.PA,,Action,EUR,yes,France
+GOOGL,Alphabet (Google),US02079K3059,GOOGL,,Action,$,no,États-Unis
+GS,Goldman Sachs,,GS,,Action,$,no,États-Unis
+GSK,GSK,,GSK.L,,Action,£,no,Royaume-Uni
+HD,Home Depot,,HD,,Action,$,no,États-Unis
+HDB,HDFC Bank,,HDB,,Action,$,no,Inde
+HEIA,Heineken,,HEIA.AS,,Action,€,yes,Europe
+HO,Thales,FR0000121329,HO.PA,,Action,EUR,yes,France
+HOLN,Holcim,,HOLN.SW,,Action,CHF,no,Suisse
+HON,Honeywell,,HON,,Action,$,no,États-Unis
+HSBA,HSBC,GB0005405286,HSBA.L,,Action,£,no,Royaume-Uni
+IBE,Iberdrola,ES0144580Y14,IBE.MC,,Action,EUR,yes,Europe
+IBM,IBM,,IBM,,Action,$,no,États-Unis
+ICE,Intercontinental Exchange,,ICE,,Action,$,no,États-Unis
+IE0006FM6MI8,Amundi S&P Global Health Care ESG,IE0006FM6MI8,,,ETF,EUR,no,Monde
+IE000E7EI9P0,Amundi S&P Global IT ESG,IE000E7EI9P0,WELU,,ETF,EUR,no,Monde
+IE000KYX7IP4,Amundi S&P Global Financials ESG,IE000KYX7IP4,,,ETF,EUR,no,Monde
+IE00B1FZS467,iShares Global Infrastructure,IE00B1FZS467,INFR,,ETF,EUR,no,Monde
+IE00B3VWN518,iShares $ Treasury Bond 7-10yr,IE00B3VWN518,CBU0,,ETF,$,no,États-Unis
+IFX,Infineon Technologies,,IFX.DE,,Action,€,yes,Europe
+INFY,Infosys,,INFY,,Action,$,no,Inde
+INGA,ING Group,,INGA.AS,,Action,€,yes,Europe
+INTC,Intel,US4581401001,INTC,,Action,$,no,États-Unis
+INTU,Intuit,,INTU,,Action,$,no,États-Unis
+ISP,Intesa Sanpaolo,,ISP.MI,,Action,€,yes,Europe
+ISRG,Intuitive Surgical,,ISRG,,Action,$,no,États-Unis
+ITX,Inditex (Zara),,ITX.MC,,Action,€,yes,Europe
+IWDA,iShares Core MSCI World,IE00B4L5Y983,IWDA,IWDA.AMS,ETF,€,no,Monde
+JNJ,Johnson & Johnson,US4781601046,JNJ,,Action,$,no,États-Unis
+JPM,JPMorgan Chase,US46625H1005,JPM,,Action,$,no,États-Unis
+KER,Kering,FR0000121485,KER.PA,KER.PAR,Action,€,yes,France
+KKR,KKR,,KKR,,Action,$,no,États-Unis
+KLAC,KLA,,KLAC,,Action,$,no,États-Unis
+KO,Coca-Cola,US1912161007,KO,,Action,$,no,États-Unis
+LDO,Leonardo,,LDO.MI,,Action,€,yes,Europe
+LI,Klépierre,FR0000121964,LI.PA,LI.PAR,Action,EUR,yes,Europe
+LIN,Linde,,LIN,,Action,$,no,États-Unis
+LLY,Eli Lilly,US5324571083,LLY,,Action,$,no,États-Unis
+LMT,Lockheed Martin,US5398301094,LMT,,Action,$,no,États-Unis
+LONN,Lonza,,LONN.SW,,Action,CHF,no,Suisse
+LOW,Lowe's,,LOW,,Action,$,no,États-Unis
+LR,Legrand,FR0010307819,LR.PA,LR.PAR,Action,EUR,yes,France
+LRCX,Lam Research,,LRCX,,Action,$,no,États-Unis
+LSEG,London Stock Exchange Group,,LSEG.L,,Action,£,no,Royaume-Uni
+LU1437017350,Amundi Core MSCI Emerging Markets,LU1437017350,,,ETF,EUR,no,Émergents
+LU1563454310,Amundi Global Aggregate Green Bond,LU1563454310,,,ETF,€,no,Monde
+LU1681037609,Amundi Japan TOPIX,LU1681037609,,,ETF,EUR,no,Japon
+LU1834986900,Amundi Stoxx Europe 600 Healthcare,LU1834986900,,,ETF,EUR,yes,Europe
+LU1861132840,Amundi MSCI Robotics & AI,LU1861132840,,,ETF,EUR,no,Monde
+LU1900068161,Amundi MSCI AC Asia ex Japan,LU1900068161,,,ETF,€,no,Asie
+LU2195226068,Amundi S&P Eurozone Climate PAB,LU2195226068,,,ETF,EUR,yes,Zone euro
+LU2356220926,Amundi Euro Government Green Bond,LU2356220926,,,ETF,EUR,no,Zone euro
+LU3038520774,Amundi Stoxx Europe Defense,LU3038520774,,,ETF,EUR,no,Europe
+MA,Mastercard,US57636Q1040,MA,,Action,$,no,États-Unis
+MAR,Marriott International,,MAR,,Action,$,no,États-Unis
+MBG,Mercedes-Benz Group,,MBG.DE,,Action,€,yes,Europe
+MC,LVMH,FR0000121014,MC.PA,MC.PAR,Action,EUR,yes,France
+MCD,McDonald's,,MCD,,Action,$,no,États-Unis
+MCO,Moody's,,MCO,,Action,$,no,États-Unis
+MDLZ,Mondelez,,MDLZ,,Action,$,no,États-Unis
+MDT,Medtronic,,MDT,,Action,$,no,États-Unis
+MELI,MercadoLibre,,MELI,,Action,$,no,Amérique latine
+META,Meta Platforms,US30303M1027,META,,Action,$,no,États-Unis
+ML,Michelin,FR001400AJ45,ML.PA,ML.PAR,Action,€,yes,France
+MMM,3M,,MMM,,Action,$,no,États-Unis
+MNST,Monster Beverage,,MNST,,Action,$,no,États-Unis
+MO,Altria,,MO,,Action,$,no,États-Unis
+MRK,Merck & Co,,MRK,,Action,$,no,États-Unis
+MS,Morgan Stanley,,MS,,Action,$,no,États-Unis
+MSFT,Microsoft,US5949181045,MSFT,,Action,$,no,États-Unis
+MT,ArcelorMittal,LU1598757687,MT.AS,,Action,EUR,yes,Europe
+MU,Micron Technology,,MU,,Action,$,no,États-Unis
+MUFG,Mitsubishi UFJ Financial,,MUFG,,Action,$,no,Japon
+MUV2,Munich Re,,MUV2.DE,,Action,€,yes,Europe
+NEE,NextEra Energy,,NEE,,Action,$,no,États-Unis
+NEM,Newmont,,NEM,,Action,$,no,États-Unis
+NESN,Nestlé,CH0038863350,NESN.SW,,Action,CHF,no,Suisse
+NFLX,Netflix,US64110L1061,NFLX,,Action,$,no,États-Unis
+NKE,Nike,,NKE,,Action,$,no,États-Unis
+NOC,Northrop Grumman,,NOC,,Action,$,no,États-Unis
+NOKIA,Nokia,,NOKIA.HE,,Action,€,yes,Europe
+NOVN,Novartis,CH0012005267,NOVN.SW,,Action,CHF,no,Suisse
+NOVO,Novo Nordisk,DK0062498333,NOVO-B.CO,,Action,DKK,yes,Europe
+NOW,ServiceNow,,NOW,,Action,$,no,États-Unis
+NU,Nu Holdings,,NU,,Action,$,no,Amérique latine
+NVDA,Nvidia,US67066G1040,NVDA,,Action,$,no,États-Unis
+OR,L'Oréal,FR0000120321,OR.PA,,Action,EUR,yes,France
+ORA,Orange,FR0000133308,ORA.PA,,Action,EUR,yes,France
+ORCL,Oracle,US68389X1054,ORCL,,Action,$,no,États-Unis
+ORLY,O'Reilly Automotive,,ORLY,,Action,$,no,États-Unis
+PANW,Palo Alto Networks,,PANW,,Action,$,no,États-Unis
+PDD,PDD Holdings (Temu),,PDD,,Action,$,no,Chine
+PEP,PepsiCo,,PEP,,Action,$,no,États-Unis
+PFE,Pfizer,,PFE,,Action,$,no,États-Unis
+PG,Procter & Gamble,,PG,,Action,$,no,États-Unis
+PGR,Progressive,,PGR,,Action,$,no,États-Unis
+PH,Parker-Hannifin,,PH,,Action,$,no,États-Unis
+PHIA,Philips,,PHIA.AS,,Action,€,yes,Europe
+PLD,Prologis,,PLD,,Action,$,no,États-Unis
+PLTR,Palantir,US69608A1088,PLTR,,Action,$,no,États-Unis
+PM,Philip Morris International,,PM,,Action,$,no,États-Unis
+PRX,Prosus,,PRX.AS,,Action,€,yes,Europe
+PRY,Prysmian,,PRY.MI,,Action,€,yes,Europe
+PUB,Publicis,FR0000130577,PUB.PA,PUB.PAR,Action,€,yes,France
+PWR,Quanta Services,,PWR,,Action,$,no,États-Unis
+QCOM,Qualcomm,,QCOM,,Action,$,no,États-Unis
+RACE,Ferrari,,RACE.MI,,Action,€,yes,Europe
+RHM,Rheinmetall,DE0007030009,RHM.DE,RHM.DEX,Action,EUR,yes,Europe
+RI,Pernod Ricard,FR0000120693,RI.PA,RI.PAR,Action,€,yes,France
+RIO,Rio Tinto,GB0007188757,RIO.L,,Action,£,no,Royaume-Uni
+RMS,Hermès,FR0000052292,RMS.PA,RMS.PAR,Action,EUR,yes,France
+RNO,Renault,FR0000131906,RNO.PA,RNO.PAR,Action,EUR,yes,France
+ROG,Roche,CH0012032048,ROG.SW,,Action,CHF,no,Suisse
+RR,Rolls-Royce,,RR.L,,Action,£,no,Royaume-Uni
+RTX,RTX,,RTX,,Action,$,no,États-Unis
+RY,Royal Bank of Canada,,RY,,Action,$,no,Canada
+SAF,Safran,FR0000073272,SAF.PA,SAF.PAR,Action,€,yes,France
+SAN,Sanofi,FR0000120578,SAN.PA,SAN.PAR,Action,EUR,yes,France
+SANES,Banco Santander,,SAN.MC,,Action,€,yes,Europe
+SAP,SAP,DE0007164600,SAP.DE,,Action,EUR,yes,Europe
+SBUX,Starbucks,,SBUX,,Action,$,no,États-Unis
+SCHW,Charles Schwab,,SCHW,,Action,$,no,États-Unis
+SE,Sea Limited,,SE,,Action,$,no,Singapour
+SGO,Saint-Gobain,FR0000125007,SGO.PA,SGO.PAR,Action,€,yes,France
+SHEL,Shell,GB00BP6MXD84,SHEL.L,,Action,£,no,Royaume-Uni
+SHOP,Shopify,,SHOP,,Action,$,no,Canada
+SIE,Siemens,DE0007236101,SIE.DE,SIE.DEX,Action,EUR,yes,Europe
+SLB,SLB (Schlumberger),,SLB,,Action,$,no,États-Unis
+SNPS,Synopsys,,SNPS,,Action,$,no,États-Unis
+SO,Southern Company,,SO,,Action,$,no,États-Unis
+SONY,Sony,JP3435000009,6758.T,,Action,¥,no,Japon
+SPG,Simon Property Group,,SPG,,Action,$,no,États-Unis
+SPGI,S&P Global,,SPGI,,Action,$,no,États-Unis
+SPOT,Spotify,,SPOT,,Action,$,no,Europe
+SSNLF,Samsung Electronics,KR7005930003,005930.KS,,Action,KRW,no,Asie
+STLAP,Stellantis,NL00150001Q9,STLAP.PA,STLAP.PAR,Action,,yes,Europe
+STMPA,STMicroelectronics,NL0000226223,STMPA.PA,STMPA.PAR,Action,EUR,yes,Europe
+SU,Schneider Electric,FR0000121972,SU.PA,SU.PAR,Action,EUR,yes,France
+SYK,Stryker,,SYK,,Action,$,no,États-Unis
+T,AT&T,,T,,Action,$,no,États-Unis
+TCEHY,Tencent,KYG875721634,0700.HK,,Action,HK$,no,Chine
+TJX,TJX Companies,,TJX,,Action,$,no,États-Unis
+TM,Toyota,JP3633400001,7203.T,,Action,¥,no,Japon
+TMO,Thermo Fisher Scientific,,TMO,,Action,$,no,États-Unis
+TMUS,T-Mobile US,,TMUS,,Action,$,no,États-Unis
+TSLA,Tesla,US88160R1014,TSLA,,Action,$,no,États-Unis
+TSM,TSMC,US8740391003,TSM,,Action,$,no,Asie
+TTE,TotalEnergies,FR0000120271,TTE.PA,TTE.PAR,Action,EUR,yes,France
+TXN,Texas Instruments,,TXN,,Action,$,no,États-Unis
+UBER,Uber,,UBER,,Action,$,no,États-Unis
+UBSG,UBS Group,,UBSG.SW,,Action,CHF,no,Suisse
+UCG,UniCredit,,UCG.MI,,Action,€,yes,Europe
+ULVR,Unilever,,ULVR.L,,Action,£,no,Royaume-Uni
+UNH,UnitedHealth,US91324P1021,UNH,,Action,$,no,États-Unis
+UNP,Union Pacific,,UNP,,Action,$,no,États-Unis
+UPS,UPS,,UPS,,Action,$,no,États-Unis
+URW,Unibail-Rodamco-Westfield,FR0013326246,URW.PA,URW.PAR,Action,€,yes,France
+V,Visa,US92826C8394,V,,Action,$,no,États-Unis
+VIE,Veolia,FR0000124141,VIE.PA,VIE.PAR,Action,€,yes,France
+VOLVB,Volvo,,VOLV-B.ST,,Action,SEK,yes,Europe
+VOW3,Volkswagen (pref.),,VOW3.DE,,Action,€,yes,Europe
+VRT,Vertiv,,VRT,,Action,$,no,États-Unis
+VRTX,Vertex Pharmaceuticals,,VRTX,,Action,$,no,États-Unis
+VWCE,Vanguard FTSE All-World,IE00BK5BQT80,VWCE,VWCE.DEX,ETF,€,no,Monde
+VZ,Verizon,,VZ,,Action,$,no,États-Unis
+WELL,Welltower,,WELL,,Action,$,no,États-Unis
+WFC,Wells Fargo,,WFC,,Action,$,no,États-Unis
+WM,Waste Management,,WM,,Action,$,no,États-Unis
+WMT,Walmart,US9311421039,WMT,,Action,$,no,États-Unis
+XOM,ExxonMobil,US30231G1022,XOM,,Action,$,no,États-Unis
+ZURN,Zurich Insurance,,ZURN.SW,,Action,CHF,no,Suisse
