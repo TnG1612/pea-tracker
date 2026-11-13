@@ -23,7 +23,9 @@ def fresh(data):
 
 
 def test_structure(data):
-    assert set(data) == {"generatedAt", "prices", "missing"}
+    assert {"generatedAt", "prices", "missing"} <= set(data)
+    for cur, rate in data.get("fx", {}).items():          # euros per 1 unit of currency
+        assert rate > 0, f"bad exchange rate for {cur}"
     datetime.fromisoformat(data["generatedAt"])          # must be a real ISO time
     for asset_id, p in data["prices"].items():
         assert p["id"] == asset_id

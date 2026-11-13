@@ -87,6 +87,23 @@ def download_stooq(tickers, start):
     return out
 
 
+def fetch_fx(currencies):
+    """{'USD': 0.86, ...} = euros per 1 unit. Yahoo 'EURUSD=X' gives dollars per 1 euro, so we invert it."""
+    codes = sorted({"GBP" if c == "GBp" else c for c in currencies} - {"EUR", ""})
+    fx = {"EUR": 1.0}
+    try:
+        data = yf.download([f"EUR{c}=X" for c in codes], period="10d", progress=False, group_by="ticker")
+        for c in codes:
+            s = data[f"EUR{c}=X"]["Close"].dropna()
+            if len(s) and s.iloc[-1] > 0:
+                fx[c] = round(1 / float(s.iloc[-1]), 8)
+    except Exception as e:
+        print("Exchange rates failed:", e)
+    if "GBP" in fx:
+        fx["GBp"] = round(fx["GBP"] / 100, 10)              # London quotes in pence
+    return fx if len(fx) > 1 else {}
+
+
 def pct(new, old):
     """Percentage change, rounded to 2 decimals."""
     return round((new / old - 1) * 100, 2)
@@ -110,9 +127,10 @@ def main():
         closes = download_stooq(tickers, start)
 
     # 2) Previous prices.json, used to keep old values for failed tickers
-    old = {}
+    old_file = {}
     if os.path.exists(PRICES_FILE):
-        old = json.load(open(PRICES_FILE, encoding="utf-8")).get("prices", {})
+        old_file = json.load(open(PRICES_FILE, encoding="utf-8"))
+    old = old_file.get("prices", {})
 
     # 3) Compute the numbers for each id
     prices, missing, history_rows = {}, [], []
@@ -144,14 +162,18 @@ def main():
         if asset_id in old:
             prices[asset_id] = {**old[asset_id], "stale": True}
 
-    # 4) Write prices.json
+    # 4) Exchange rates: how many euros 1 unit of each currency is worth (for portfolio totals)
+    fx = fetch_fx({p["currency"] for p in prices.values()}) or old_file.get("fx", {})
+
+    # 5) Write prices.json
     result = {"generatedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
               "prices": dict(sorted(prices.items())),
-              "missing": sorted(missing)}
+              "missing": sorted(missing),
+              "fx": fx}
     with open(PRICES_FILE, "w", encoding="utf-8") as f:
         json.dump(result, f, indent=1, ensure_ascii=False)
 
-    # 5) Append to history/YYYY.csv (one row per date+id, re-runs replace instead of duplicate)
+    # 6) Append to history/YYYY.csv (one row per date+id, re-runs replace instead of duplicate)
     os.makedirs("history", exist_ok=True)
     rows = pd.DataFrame(history_rows, columns=["date", "id", "close"])
     for y, new in rows.groupby(rows["date"].str[:4]):     # file = year of the close date
